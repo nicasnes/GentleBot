@@ -16,7 +16,7 @@ Requires at least one argument. Displays the first image result for the argument
 **.money**
 Adds one hundred currency to a user's account if they previously had less than one hundred.  
   
-**.startmatch
+**.startmatch**
 Begins a match of a certain type which can be bet on. For example, .startmatch Valorant.  
   
 **.bet**
