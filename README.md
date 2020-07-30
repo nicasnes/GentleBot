@@ -1,9 +1,10 @@
 # Gentlebot  
 A simple Discord bot for betting imaginary money with friends.  
   
-The following commands are currently available for use:
-**.help**
-Displays the following information:
+The following commands are currently available for use:  
+  
+**.help**  
+Displays the following information:  
 ![Image of .help output](https://i.imgur.com/2m4AIkq.png)  
   
 **.userinfo**
