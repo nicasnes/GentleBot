@@ -7,7 +7,7 @@ The following commands are currently available for use:
 Displays the following information:  
 ![Image of .help output](https://i.imgur.com/2m4AIkq.png)  
   
-**.userinfo**
+**.userinfo**  
 Displays the sender's username and profile picture in an embed.  
   
 **.img**  
