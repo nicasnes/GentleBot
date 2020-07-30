@@ -10,32 +10,32 @@ Displays the following information:
 **.userinfo**
 Displays the sender's username and profile picture in an embed.  
   
-**.img**
+**.img**  
 Requires at least one argument. Displays the first image result for the arguments.  
   
-**.money**
+**.money**  
 Adds one hundred currency to a user's account if they previously had less than one hundred.  
   
-**.startmatch**
+**.startmatch**  
 Begins a match of a certain type which can be bet on. For example, .startmatch Valorant.  
   
-**.bet**
+**.bet**  
 Places a bet on an ongoing match
 Syntax: !bet score matchNumber betAmount  
   
-**.report**
+**.report**  
 Reports the scores for a particular match.
 All scores must be in the format: score1-score2
 Syntax: .report score matchNumber  
   
-**.matches**
+**.matches**  
 Displays the match number of all ongoing matches.  
   
-**.viewbets**
+**.viewbets**  
 Displays the sender's ongoing bets in an embed.  
   
-**.balance**
+**.balance**  
 Display's the sender's balance.  
   
-**.gamble**
+**.gamble**  
 Allows the sender to gain money by either doubling their gamble or losing it.  
